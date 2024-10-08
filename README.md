@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalai Arasan J
 - 👀 From Vellore... Currently pursuing my Masters of Computer Application in VIT Vellore.
-- 🌱 I’m currently learning about Data Engineering at Diggibyte Technologies as an Intern.
+- 🌱 I’m currently working as a Data Engineer Trainee at Diggibyte Technologies, Bangalore.
 - 💞 Believe in yourself is the motto which is follow in every situation.
 - 📫 Contact Me: kalaiarasan.j200@gmail.com
 
